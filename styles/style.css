@@ -1,0 +1,32 @@
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+body,
+footer,
+table,
+div,
+p {
+	font-family: 'Gungsuh';
+	color: #fff;
+}
+body {
+	font-size: 16px;
+	width:400px;
+	margin:0 auto;
+	background-color:#222;
+	padding:0px 10px 10px 10px;
+	border: 5px solid #001;
+}
+html {
+	background-color: #111;
+}
+h1 {
+	font-size: 25px;
+	text-align: center;
+	margin:0px;
+	padding:20px;
+	text-shadow:3px 3px 0.1px black;
+}
+img{
+	width: 200px;
+	display:block;
+	margin:0 auto;
+}
